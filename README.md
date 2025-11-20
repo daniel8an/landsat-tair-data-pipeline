@@ -151,5 +151,5 @@ Free Software License
 
 ## Author
 
-Daniel Eitan, Asher Holder, Alexnadra Chudnovsky and Zohar Yakhini
+Daniel Eitan, Asher Holder,  Zohar Yakhini and Alexnadra Chudnovsky
 
